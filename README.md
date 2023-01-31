@@ -8,7 +8,7 @@
 
 ## Use Cases 📚
 
-- Like a user I want to do a login in the app.
+- Like a user I want to login in the app.
 - Like a user I want to sign up to the app.
 - Like a user I want to see my profile information in the home page.
 - Like a user I want to have a list of my Url's saved previously.
