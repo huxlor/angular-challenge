@@ -8,7 +8,7 @@
 
 ## Use Cases 📚
 
-- Like a user I want to do a in the app.
+- Like a user I want to do a login in the app.
 - Like a user I want to sign up to the app.
 - Like a user I want to see my profile information in the home page.
 - Like a user I want to have a list of my Url's saved previously.
@@ -32,6 +32,10 @@
 - You have extra points if the callenge is deploy to some hosting service like Netlify, Vercer or Github Pages.
 - We really appreciate the use of a state management like NgRx or using some library like RxJS.
 - The reason of this test is to prove and challenge you about your Angular knowledge. If you want, you can use Guards, Interceptors or some extra feature of Angular.
+
+## Deadline 🚨🚨🚨
+
+- This challenge have a deadline of 3 days like a maximun limit date.
 
 
 ## Doubts and Questions ☁️☁️
